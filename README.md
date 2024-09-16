@@ -1,16 +1,45 @@
-## Hi there 👋
+<!-- introduction -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Ankit!;&center=true&size=30">
+  </a>
+</h1>
 
-<!--
-**Ankii-Sing/Ankii-Sing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- about me -->
+<p align="center">
+  Hi, I'm Ankit Singh, App Developer/Web Developer/Coder 💻 & 📈 Learner 👨‍💻 from India 🇮🇳.
+  <br />
+  <br />
+  🎓 Currently an M.Tech student in Delhi Technological University.
+  <br />
+  💻 I love to learn new technologies frameworks and implementing them.
+  <br />
+  <br />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr />
+<!-- skills 
+<h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
+<br />
+<p align="center">
+  <a href="https://skillicons.dev">
+      <!-- first row 
+      <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Cts%2Cjavascript%2Chtml%2Ccss%2Cbootstrap%2Ctailwind%2Cvercel%2Cvscode%2Cc%2Ccpp%2Cmysql&theme=dark" />
+<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Cts%2Cjavascript%2Chtml%2Ccss%2Cbootstrap%2Ctailwind%2Cvercel%2Cvscode%2Cc%2Ccpp%2Cmysql&theme=light" />
+         <img src="https://skillicons.dev/icons?i=react%2Cnextjs%2Cts%2Cjavascript%2Chtml%2Ccss%2Cbootstrap%2Ctailwind%2Cvercel%2Cvscode%2Cc%2Ccpp%2Cmysql&theme=light" alt="skills - 1" />
+        </picture>
+          <br />
+          <!-- second row 
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ps%2Cpr&theme=dark" />
+            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=ps%2Cpr&theme=light" />
+            <img src="https://skillicons.dev/icons?i=ps%2Cpr&theme=light" alt="skills - 2" />
+        </picture>
+    -->
+  </a>
+</p>
+<br />
+
+
